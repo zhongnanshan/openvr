@@ -1,0 +1,25 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/samples/.vs/samples_vs2010/v14/.suo
+/samples/bin/win32/tracked_camera_openvr_sample.pdb
+/samples/bin/win32/tracked_camera_openvr_sample.ilk
+/samples/bin/win32/tracked_camera_openvr_sample.exe
+/samples/bin/win32/helloworldoverlay.pdb
+/samples/bin/win32/helloworldoverlay.ilk
+/samples/bin/win32/helloworldoverlay.exe
+/samples/bin/win32/hellovr_opengl.pdb
+/samples/bin/win32/hellovr_opengl.ilk
+/samples/bin/win32/hellovr_opengl.exe
+/samples/bin/win32/driver_sample.pdb
+/samples/bin/win32/driver_sample.lib
+/samples/bin/win32/driver_sample.ilk
+/samples/bin/win32/driver_sample.exp
+/samples/bin/win32/driver_sample.dll
+/samples/build/CMakeFiles
+/samples/build/driver_sample/CMakeFiles
+/samples/build/driver_sample/driver_sample.dir/Debug
+/samples/build
+/samples/hellovr_opengl/Debug
+/samples/samples_vs2010.VC.db
